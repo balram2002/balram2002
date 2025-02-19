@@ -1,9 +1,9 @@
-# Hi there, I'm **Balram** 👋
-
 <!-- Optional Banner Image -->
 <p align="center">
   <img src="/github-header-image.png" alt="Banner" width="100%">
 </p>
+
+# Hi there, I'm **Balram** 👋
 
 ## 💫 About Me
 I'm a passionate and innovative software developer dedicated to crafting scalable, efficient, and user-friendly solutions. With a diverse skillset spanning multiple languages and frameworks, I thrive on solving complex problems and continuously evolving my craft. I blend creativity with technical expertise to transform ideas into impactful, real-world applications.
@@ -105,7 +105,7 @@ I'm a passionate and innovative software developer dedicated to crafting scalabl
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balram2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balram2002&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.onrender.com/?user=balram2002&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balram2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
