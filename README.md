@@ -103,10 +103,3 @@ I'm a passionate and innovative software developer dedicated to crafting scalabl
 
 ---
 
-<div align="center">
-  <sub>Made with ❤️ using <a href="https://gprm.itsvg.in">GPRM</a></sub>
-  <br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=balram2002&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</div>
